@@ -7,8 +7,8 @@
 - The emphasis will be on CO2 emissions from those cars and other related variables.
 
 - To review the report and code it is recommended to download the HTML file:
-[code and HTML](https://github.com/BegonaFrigolet/Data_Vizualization_-R-_ggplot-/blob/main/Final%20HTML.html).
-- To review the [R Markdown](https://github.com/BegonaFrigolet/Data_Vizualization_-R-_ggplot-/blob/main/Final%20HTML.html).
+[code and HTML](https://github.com/BegonaFrigolet/Data-Visualization_R_Library_ggplot/blob/main/0.Final%20CO2%20Analysis%20HTML.html).
+- To review the main insights of the report: [Key Findings](https://github.com/BegonaFrigolet/Data_Vizualization_-R-_ggplot-/blob/main/Final%20HTML.html).
 
 # [Spark](https://github.com/BegonaFrigolet/SPARK)
 - A look into Hotels Reviews:
