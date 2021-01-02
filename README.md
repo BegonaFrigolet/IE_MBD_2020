@@ -1,8 +1,8 @@
 # IE_MBD_2020
 
-- This repository contains all the projects implemented during my Master's in Business Analytics &amp; Big Data program while at IE University during October 2019 - July 2020
+- This repository contains all the projects implemented during my Master's in Business Analytics & Big Data program while at IE University during October 2019 - July 2020
 
-# [Data Visualization (R - ggplot)](https://github.com/BegonaFrigolet/Data_Vizualization_-R-_ggplot-)
+# [Data Visualization (R - ggplot)](https://github.com/BegonaFrigolet/Data-Visualization_R_Library_ggplot)
 - Data of CO2 emissions with a focus on new cars in the UK, the study will focus on a dataset of newly sold cars in the United Kingdom from 2000 to 2013.
 - The emphasis will be on CO2 emissions from those cars and other related variables.
 
