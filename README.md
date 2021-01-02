@@ -20,6 +20,19 @@ The data of the animation can be found in this Link
 Final Visualization:
 The result with animations can be found in this Link, to learn more about D3 it is recommended to go through the explanations as well as the visualizations.
 
+# [Natural Language Processing](https://github.com/BegonaFrigolet/Natural-Language-Processing)
+##- Analyzing Domestic Violence through Topic Modelling
+
+- Domestic Violence is not a pandemic, it’s an epidemic. With Covid-19 ravaging the economy; increasing unemployment such crises are set to become much more frequent. Add another public health crisis to the toll of the new coronavirus: Mounting data suggests that domestic abuse is acting as an opportunistic infection, flourishing in the conditions created by the pandemic.
+
+- By applying Topic Modelling Techniques such as: Latent Dirichlet Allocation (LDA), Hierarchical Dirichlet Process (HDP) and data from Social Media (Reditt & Twitter). We are looking to identify the different topics or classes of the tweets or comments in reddit platform to make the large and unstructured data more organized in a way that will make it easier for NGOs, government officials or researchers to assess and get useful insights from to better analyze this crisis and come up with better courses of actions accordingly.
+
+- To Review  the Website & Application can be found in this [LINK](https://bfdelavega.wixsite.com/misitio)
+- To Review  the Final Report can be found in this [LINK](https://github.com/BegonaFrigolet/Natural-Language-Processing/blob/main/NLPAssignment_GroupA/Final%20Report_GroupA.pdf)
+- To Review  the Final Presentation can be found in this [LINK](https://github.com/BegonaFrigolet/Natural-Language-Processing/blob/main/NLPAssignment_GroupA/GroupA_Domestic_Violence.pptx)
+
+
+
 # [Spark](https://github.com/BegonaFrigolet/SPARK)
 - A look into Hotels Reviews:
 - The Business world has had a drastically change since the introduction of online companies and their digitalization model in which the largest taxi company does not own cars, the most popular owner does not create their own content and the largest accommodation providers owns no real state.
