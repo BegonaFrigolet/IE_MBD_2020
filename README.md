@@ -6,8 +6,9 @@
 - Data of CO2 emissions with a focus on new cars in the UK, the study will focus on a dataset of newly sold cars in the United Kingdom from 2000 to 2013.
 - The emphasis will be on CO2 emissions from those cars and other related variables.
 
-- To review the report and code click on this link
+- To review the report and code it is recommended to download the HTML file:
 [code and HTML](https://github.com/BegonaFrigolet/Data_Vizualization_-R-_ggplot-/blob/main/Final%20HTML.html).
+- To review the [R Markdown](https://github.com/BegonaFrigolet/Data_Vizualization_-R-_ggplot-/blob/main/Final%20HTML.html).
 
 # [Spark](https://github.com/BegonaFrigolet/SPARK)
 - A look into Hotels Reviews:
