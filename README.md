@@ -22,7 +22,7 @@ The result with animations can be found in this Link, to learn more about D3 it 
 
 # [Natural Language Processing](https://github.com/BegonaFrigolet/Natural-Language-Processing)
 
-## nalyzing Domestic Violence through Topic Modelling - All documentation can be found on this [LINK] (https://github.com/BegonaFrigolet/Natural-Language-Processing/tree/main/NLPAssignment_GroupA)
+## Analyzing Domestic Violence through Topic Modelling - All documentation can be found on this [LINK] (https://github.com/BegonaFrigolet/Natural-Language-Processing/tree/main/NLPAssignment_GroupA)
 
 - Domestic Violence is not a pandemic, it’s an epidemic. With Covid-19 ravaging the economy; increasing unemployment such crises are set to become much more frequent. Add another public health crisis to the toll of the new coronavirus: Mounting data suggests that domestic abuse is acting as an opportunistic infection, flourishing in the conditions created by the pandemic.
 
