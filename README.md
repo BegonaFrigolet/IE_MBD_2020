@@ -23,7 +23,7 @@ The result with animations can be found in this Link, to learn more about D3 it 
 # [Natural Language Processing](https://github.com/BegonaFrigolet/Natural-Language-Processing)
 
 ## Analyzing Domestic Violence through Topic Modelling - All documentation can be found on this
-[LINK] (https://github.com/BegonaFrigolet/Natural-Language-Processing/tree/main/NLPAssignment_GroupA)
+[LINK](https://github.com/BegonaFrigolet/Natural-Language-Processing/tree/main/NLPAssignment_GroupA).
 
 - Domestic Violence is not a pandemic, it’s an epidemic. With Covid-19 ravaging the economy; increasing unemployment such crises are set to become much more frequent. Add another public health crisis to the toll of the new coronavirus: Mounting data suggests that domestic abuse is acting as an opportunistic infection, flourishing in the conditions created by the pandemic.
 
@@ -34,7 +34,7 @@ The result with animations can be found in this Link, to learn more about D3 it 
 - To Review  the Final Presentation can be found in this [LINK](https://github.com/BegonaFrigolet/Natural-Language-Processing/blob/main/NLPAssignment_GroupA/GroupA_Domestic_Violence.pptx)
 
 ## Analyzing Disaster Tweets Through NLP All documentation can be found on this
-[LINK] (https://github.com/BegonaFrigolet/Natural-Language-Processing/tree/main/NLP%20%20Disaster%20Tweets)
+[LINK](https://github.com/BegonaFrigolet/Natural-Language-Processing/tree/main/NLP%20%20Disaster%20Tweets).
 
 ### Main Goal: 
 The goal is to try to help the prediction of which Tweets are talking about real disasters and which ones are not. The problem is dealing with a binary classification problem classifying them The data set is of 10K tweets that were hand classified, from the company figure-eight and originally shared on their "Data For Everyone" website here.
